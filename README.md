@@ -42,6 +42,26 @@ Resume-Screening-App/
 
 ---
 
+## 🖼️ Output
+
+Here are some screenshots of the app in action:
+
+### Upload Resume and Job Description and Resume Category Prediction & Match Score and Word and Character Count Statistics
+![Screenshot 2025-05-13 124146](https://github.com/user-attachments/assets/b05bdc44-e53b-450b-9a79-3656fa913fdd)
+
+
+---
+
+## 🧪 How to Run Locally
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/manidixit51/Resume-Screening-App.git
+   cd Resume-Screening-App
+
+
+---
+
 ## 🧪 How to Run Locally
 
 1. **Clone the repo**
