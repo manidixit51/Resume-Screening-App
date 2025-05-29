@@ -9,7 +9,7 @@ import pickle
 #import numpy as np
 
 # Load model and encoders
-svc_model = pickle.load(open('clf.pkl', 'rb'))
+#svc_model = pickle.load(open('clf.pkl', 'rb'))
 tfidf = pickle.load(open('tfidf.pkl', 'rb'))
 le = pickle.load(open('encoder.pkl', 'rb'))
 
