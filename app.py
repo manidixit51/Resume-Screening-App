@@ -4,9 +4,9 @@ import pickle
 #import PyPDF2
 #import re
 #import pytesseract
-from PIL import Image
-from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
+#from PIL import Image
+#from sklearn.metrics.pairwise import cosine_similarity
+#import numpy as np
 
 # Load model and encoders
 svc_model = pickle.load(open('clf.pkl', 'rb'))
