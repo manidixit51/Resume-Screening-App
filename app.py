@@ -10,8 +10,8 @@ import pickle
 
 # Load model and encoders
 #svc_model = pickle.load(open('clf.pkl', 'rb'))
-tfidf = pickle.load(open('tfidf.pkl', 'rb'))
-le = pickle.load(open('encoder.pkl', 'rb'))
+#tfidf = pickle.load(open('tfidf.pkl', 'rb'))
+#le = pickle.load(open('encoder.pkl', 'rb'))
 
 # Tesseract config (set correct path if needed)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # ← Adjust this if you're on Mac/Linux
