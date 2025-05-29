@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 #import docx
-import PyPDF2
+#import PyPDF2
 import re
 import pytesseract
 from PIL import Image
