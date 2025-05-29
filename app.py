@@ -14,7 +14,7 @@ import pickle
 #le = pickle.load(open('encoder.pkl', 'rb'))
 
 # Tesseract config (set correct path if needed)
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # ← Adjust this if you're on Mac/Linux
+#pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # ← Adjust this if you're on Mac/Linux
 
 # === Text Cleaning ===
 def clean_text(text):
