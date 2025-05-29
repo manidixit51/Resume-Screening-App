@@ -48,7 +48,7 @@ Resume-Screening-App/
    ```bash
    git clone https://github.com/manidixit51/Resume-Screening-App.git
    cd Resume-Screening-App
-````
+
 
 2. **Set up the environment**
 
@@ -80,20 +80,4 @@ Resume-Screening-App/
 
 ---
 
-## 🙋‍♀️ Author
 
-**Mani Dixit**
-GitHub: [@manidixit51](https://github.com/manidixit51)
-
----
-
-## 📄 License
-
-MIT License — Feel free to use, modify, and share.
-
-```
-
----
-
-If you want, I can help you generate a README with sample screenshots or badges next!
-```
